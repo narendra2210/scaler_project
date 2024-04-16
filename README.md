@@ -7,7 +7,7 @@ React.js, Node.js) for its development.
 
 ## Table of Contents
 
--[Amat-Shop](#AmatShop)
+[Amat-Shop](#AmatShop)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Getting Started](#getting-started)
@@ -54,9 +54,9 @@ Before you begin, ensure you have the following installed:
 
    bash
    
-   git clone 
+   git clone https://github.com/narendra2210/scaler_project.git
    
-   cd AmatShop Ecommerce Analytics Dashboard
+   cd AmatShop
    
 
 3. Install backend dependencies:
